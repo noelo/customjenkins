@@ -1,4 +1,3 @@
-bouncycastle-api.jpi:2.16.2
 gitlab-plugin.jpi:1.4.7
 gitlab-logo.jpi:1.0.3
 pipeline-model-definition.jpi:1.1.9
