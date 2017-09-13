@@ -1,3 +1,5 @@
 gitlab-plugin:1.4.7
 gitlab-logo:1.0.3
 pipeline-model-definition:1.1.9
+openshift-client:0.9.6
+slack:2.3
