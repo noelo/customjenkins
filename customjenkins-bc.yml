@@ -11,8 +11,7 @@ spec:
     sourceStrategy:
       from:
         kind: ImageStreamTag
-        name: jenkins:latest
-        namespace: openshift
+        name: jenkins-2-rhel7:latest
     type: Source
   output:                       
     to:
